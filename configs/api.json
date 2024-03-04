@@ -1,0 +1,6 @@
+{
+  "results": 200,
+  "seed": "mySeed-test-text",
+  "page": 1,
+  "baseURL": "https://randomuser.me/api/"
+}
